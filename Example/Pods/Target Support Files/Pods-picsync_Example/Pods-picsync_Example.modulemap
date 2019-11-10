@@ -1,0 +1,6 @@
+framework module Pods_picsync_Example {
+  umbrella header "Pods-picsync_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

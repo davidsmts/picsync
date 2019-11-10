@@ -1,0 +1,6 @@
+framework module picsync {
+  umbrella header "picsync-umbrella.h"
+
+  export *
+  module * { export * }
+}

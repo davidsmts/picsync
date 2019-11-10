@@ -1,0 +1,22 @@
+{
+  "name": "picsync",
+  "version": "0.1.0",
+  "summary": "A short description of picsync.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/davidsmts/picsync",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "davidsmts": "davidschmotz@gmx.de"
+  },
+  "source": {
+    "git": "https://github.com/davidsmts/picsync.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "picsync/Classes/**/*"
+}
